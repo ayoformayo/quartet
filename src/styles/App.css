@@ -1,0 +1,50 @@
+.demo-card-square.mdl-card {
+  width: 100%;
+  height: 33%;
+}
+.therapist-icon {
+  position: absolute;
+  background-color: green;
+  top: 5px;
+  right: 5px;
+  font-size: 2em;
+  border-radius: 1em;
+}
+.therapist-title {
+  width: 100%;
+}
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+}
+
+.therapist-image {
+  width: 50%;
+  height: 100%;
+}
+
+.therapist-info {
+  color: black;
+  width: 50%;
+  display: inline-block;
+}
+
+.therapist-card {
+  /*margin-bottom: 1%;*/
+}
+
+.answer-text {
+  position: relative;
+}
+
+.answer-icon {
+  position: absolute;
+  background-color: green;
+  top: 16px;
+  right: 2px;
+  font-size: 1em;
+  border-radius: 0.5em;
+}
+
+.button-container {
+  text-align: center;
+}
